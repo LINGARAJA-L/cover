@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Date:21.09.23
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -112,7 +112,8 @@ footer{
   }
 ```
 ## OUTPUT:
-![Alt text](<Screenshot (41).png>)
+![Screenshot (59)](https://github.com/LINGARAJA-L/cover/assets/129825857/cbdf1e48-5de0-4c3d-99b2-6e7deb9aa2b4)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
